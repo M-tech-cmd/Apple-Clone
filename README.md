@@ -19,3 +19,8 @@ Welcome to Apple Kenya Clone! This project is a replica of the Apple real websit
    ```bash
    git clone https://github.com/your-username/apple-kenya-clone.git
 ![image alt](https://github.com/M-tech-cmd/Apple-Clone/blob/b8db511aeb16e4582406ac707554b010eaea378d/Screenshot_12-12-2024_21463_127.0.0.1.jpeg)
+
+
+https://github.com/user-attachments/assets/85475cc6-f21a-451a-b5ed-ebb2ce0b2bdf
+
+
